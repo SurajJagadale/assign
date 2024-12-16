@@ -1,0 +1,131 @@
+,Specialist,Name,Ratings,Experience,Available Days,Appointment Times,Location
+0,Dermatologist,Dr. Amit Kerure,4.9,Over 40 years,Mon-Sat,"10:00 - 14:00, 17:00 - 22:00","Mumbai, Maharashtra"
+1,Dermatologist,Dr. Jaishree Sharad,4.7,Over 20 years,Mon-Sun,10:00 - 20:00,"Mumbai, Maharashtra"
+2,Dermatologist,Dr. Kiran Godse,4.55,Over 50 presentations,"Mon, Tue, Wed, Fri, Sat","10:00 - 14:00, 18:00 - 21:00","Pune, Maharashtra"
+3,Dermatologist,Dr. Gopi Maddali,4.6,Over 39 years,"Tue, Wed, Thu, Fri",18:00 - 21:00,"Hyderabad, Telangana"
+4,Dermatologist,Dr. Subhash Chandra Bharija,4.5,Over 52 years,Mon-Sat,"11:00- 12:00, 14:00 - 16:00","New Delhi, Delhi"
+5,Dermatologist,Dr. Subhash Chandra Bharija,4.7,Over 52 years,Mon-Sat,"10:00 - 14:00, 17:00 - 22:00",Delhi
+6,Dermatologist,Dr. Sheilly Kapoor,4.55,Over 22 years,Mon-Sun,10:00 - 20:00,Gurgaon
+7,Dermatologist,Dr. Monica Bambroo,4.6,Over 14 years,"Mon, Tue, Wed, Fri, Sat","10:00 - 14:00, 18:00 - 21:00",Gurgaon
+8,Dermatologist,Dr. Pallav Kishanpuria,4.2,Over 19 years,"Tue, Wed, Thu, Fri",18:00 - 21:00,Delhi
+9,Dermatologist,Dr. Aarti Sarda,4,Over 17 years,Mon-Sat,"11:00- 12:00, 14:00 - 16:00",Kolkata
+10,Allergist,Dr. Akhila Hb,4.9,"7 years, MBBS, MD (Pediatrics), Fellowship in Asthma and Allergy",Mon-Sun,17:30 - 19:00,"Apollo Medical Center, Marathahalli, Bengaluru"
+11,Allergist,Dr. Renu Saraogi,4.7,"21years,MBBS, PGDFM",Mon-Sun,19:00 - 21:40,"Apollo Clinic Bellandur, Bengaluru"
+12,Allergist,Dr. Akram Syed,4.55,"22 years, MBBS, MD (Pediatrics)",Mon-Sun,19:30 - 22:00,"Apollo Clinic Bellandur, Bengaluru"
+13,Allergist,Dr. Dershana P Rajaram,4.6,"35 years, MBBS, DGO",Mon-Sun,19:30 - 22:10,"Apollo Clinic Bellandur, Bengaluru"
+14,Allergist,Dr. Sonali Jain,4.5,"32 years, MBBS, MD (Internal Medicine)",Mon-Sun,19:30 - 21:30,"Apollo Clinic Golf Course Rd Gurgaon, Gurugram"
+15,Allergist,Dr. Anusuya Shetty,4.7,"17 years, MBBS, DNB (Gen. Med.), PGD (Clinical Endocrinology)",Mon-Sun,19:30 - 02:10,"Apollo Clinic Bellandur, Bengaluru"
+16,Allergist,Dr. Suresh G,4.55,"25 years, MBBS, MD",Mon-Sun,19:30 - 05:30,"Apollo Clinic Bellandur, Bengaluru"
+17,Allergist,Dr. Chaithanya R,4.6,"15 years, MBBS, MD Internal Medicine, Fellowship in Diabetes (UK), CCEBDM (PHFI)",Mon-Sun,19:30 - 02:00,"Apollo Clinic Bellandur, Bengaluru"
+18,Allergist,Dr. Jyothi Rajesh,4.2,"22 years, MBBS, DGO (DNB)",Mon-Sun,19:30 - 02:00,"Apollo Clinic Bellandur, Bengaluru"
+19,Allergist,Dr. Renu Saraogi,4,21 years of experience,Mon-Sun,19:00 - 21:40,"Apollo Clinic Bellandur, Bengaluru"
+20,Hepatologist,Dr. Aabha Nagral,4.5,Over 28 years,"Tue, Thu","10:00 - 14:00, 10:00 - 12:00","Apollo Hospitals CBD Belapur, Mumbai"
+21,Hepatologist,Dr. Govind Kendre,4.6,Over 5 years,Mon-Sat,16:00 - 18:00,"Mangal Prabhu Hospital, Navi Mumbai"
+22,Hepatologist,Dr. Purushottam Vashistha,4.2,Over 15 years,"Mon, Wed, Fri",17:00 - 19:00,"Nanavati Super Specialty Hospital, Mumbai"
+23,Hepatologist,Dr. Chetan Ramesh Kalal,4,"17 years, MBBS, DNB (Gen. Med.), PGD (Clinical Endocrinology)",Mon-Sat,13:00 - 18:00,"Sir H. N. Reliance Foundation Hospital, Mumbai"
+24,Hepatologist,Dr. Parijat Gupte,4.6,"22 years, MBBS, DGO (DNB)",Mon-Sat,19:30 - 02:10,"Jupiter Hospital, Thane"
+25,Hepatologist,Dr. Sanjay Govil,4.2,21 years of experience,Mon-Sat,08:00 - 20:00,"Apollo Hospital, Bangalore"
+26,Hepatologist,Dr. Arvinder Singh Soin,4,35 years,Mon-Sat,9:00 AM - 5:00 PM,"Medanta The Medicity, Gurgaon"
+27,Hepatologist,Dr. Sukrit Singh Sethi,4.5,10 years,Mon-Sat,9:00 AM - 5:00 PM,"Narayana Superspeciality Hospital, Gurugram, Gurgaon"
+28,Hepatologist,Dr. Avnish Seth,4.6,29 years,Mon-Sat,9:00 AM - 5:00 PM,"Manipal Hospitals, Dwarka, New Delhi"
+29,Hepatologist,Dr. Arul Prakash S,4.2,18 years,Mon-Sat,9:00 AM - 5:00 PM,"MGM Healthcare, Nelson Manickam Road, Chennai"
+30,Infectious Disease Specialist,Dr. Swati Gohel ,4.7,18 years,Monday to Saturday,10:00 AM - 7:00 PM,"402, Maple Trade Centre, Sal Hospital Rd, Thaltej, Ahmedabad, Gujarat"
+31,Infectious Disease Specialist,Dr Ashwini’s - ID clinic,5,7 years,Monday to Saturday,9:00 AM - 7:00 PM,"Tayade’s Clinic, Krishna Multispeciality Clinic, Ramdaspeth, Nagpur, Maharashtra"
+32,Infectious Disease Specialist,Dr. Swapna Khanzode,4.3,15 years,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM","402A, Shubhashish Square Complex, Shradddhanand Peth Square, Nagpur, Maharashtra"
+33,Infectious Disease Specialist,Dr. Sanjay Pujari1,5,30+ years,Monday to Saturday,09:00 - 18:00,"Pune, Maharashtra"
+34,Infectious Disease Specialist,Dr. Shruti Jadhav2,5,More than 10 years,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",Varies by day,Pune
+35,Infectious Disease Specialist,Dr. Vaibhav D. Pandharkar3,4.25,12 years,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",Varies by day,"Pune, Maharashtra"
+36,Infectious Disease Specialist,Dr. Anshu Sethi4,4.65,Not specified,"Monday, Wednesday, Friday",18:00 - 20:00,"Pune, Maharashtra"
+37,Infectious Disease Specialist,Dr. Sanjay Pujari1,5,30+ years,Monday to Saturday,09:00 - 18:00,"Pune, Maharashtra"
+38,Infectious Disease Specialist,Dr. Shruti Jadhav2,5,More than 10 years,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",Varies by day,Pune
+39,Infectious Disease Specialist,Dr. Vaibhav D. Pandharkar3,4.25,12 years,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",Varies by day,"Pune, Maharashtra"
+40,Endocrinologist,Dr. Surender Kumar,4.7,52 years,Mon-Sat,19:30 - 02:10,"Jupiter Hospital, Thane"
+41,Endocrinologist,Dr. T Kamala,5,50 years,Mon-Sat,08:00 - 20:00,"Apollo Hospital, Bangalore"
+42,Endocrinologist,Dr. Mohan Badagandi,4.3,49 years,Mon-Sat,9:00 AM - 5:00 PM,"Medanta The Medicity, Gurgaon"
+43,Endocrinologist,Dr. P. K. Bhattacharya,5,46 years,Mon-Sat,9:00 AM - 5:00 PM,"Narayana Superspeciality Hospital, Gurugram, Gurgaon"
+44,Endocrinologist,Dr. S Srikanta,5,46 years,Mon-Sat,9:00 AM - 5:00 PM,"Manipal Hospitals, Dwarka, New Delhi"
+45,Endocrinologist,Dr. Col. Sudhir Tripathi,4.25,45 years,Mon-Sat,9:00 AM - 5:00 PM,"MGM Healthcare, Nelson Manickam Road, Chennai"
+46,Endocrinologist,Dr. Sanjeev Bhaskar Baksh,4.65,45 years,Monday to Saturday,10:00 AM - 7:00 PM,"402, Maple Trade Centre, Sal Hospital Rd, Thaltej, Ahmedabad, Gujarat"
+47,Endocrinologist,Dr. Ambrish Mithal,5,30+ years,Monday to Saturday,9:00 AM - 7:00 PM,"Tayade’s Clinic, Krishna Multispeciality Clinic, Ramdaspeth, Nagpur, Maharashtra"
+48,Endocrinologist,Dr. Vivek Aggarwal,5,More than 10 years,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM","402A, Shubhashish Square Complex, Shradddhanand Peth Square, Nagpur, Maharashtra"
+49,Endocrinologist,Dr. Ganesh Jevalikar,4.25,12 years,Monday to Saturday,09:00 - 18:00,"Pune, Maharashtra"
+50,Pulmonologist,Dr. Ankit Parakh11,4.9,"22 years, MBBS, DGO (DNB)",Mon-Sat,19:30 - 02:10,"New Delhi, India"
+51,Pulmonologist,Dr. Nikhil Malhotra22,4.7,21 years of experience,Mon-Sat,08:00 - 20:00,"New Delhi, India"
+52,Pulmonologist,Dr. Manoj Kumar Goel33,4.55,35 years,Mon-Sat,9:00 AM - 5:00 PM,"Gurugram, India"
+53,Pulmonologist,Dr. Abhay Uppe4,4.6,10 years,Mon-Sat,9:00 AM - 5:00 PM,"Mumbai, India"
+54,Pulmonologist,Dr. Ashok Sengupta5,4.5,29 years,Mon-Sat,9:00 AM - 5:00 PM,"West Bengal, India"
+55,Pulmonologist,Dr. Ashwin K Mani6,4.7,18 years,Mon-Sat,9:00 AM - 5:00 PM,"Chennai, India"
+56,Pulmonologist,Dr. Vinod Kumar Maini7,4.55,18 years,Monday to Saturday,10:00 AM - 7:00 PM,"Punjab, India"
+57,Pulmonologist,Dr. Agyasingh Kochar[8],4.6,7 years,Monday to Saturday,9:00 AM - 7:00 PM,"Mumbai, India"
+58,Pulmonologist,Dr. Meghana Subhash[9],4.2,15 years,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",India
+59,Pulmonologist,Dr. Swapnil Sanjay Kakad[10],4,30+ years,Monday to Saturday,09:00 - 18:00,India
+60,Cardiologist,Dr. Devi Prasad Shetty,5,35 years,Mon-Sat,9:00 AM - 5:00 PM,Bangalore
+61,Cardiologist,Dr. Ashok Seth,5,10 years,Mon-Sat,9:00 AM - 5:00 PM,New Delhi
+62,Cardiologist,Dr. Naresh Trehan,4.25,29 years,Mon-Sat,9:00 AM - 5:00 PM,Gurgaon
+63,Cardiologist,Dr. Ramakant Panda,4.65,Over 35 years,Monday to Saturday,10:00 AM - 7:00 PM,Mumbai
+64,Cardiologist,Dr. K.K Talwar,5,"Chairman, Max Super Speciality Hospital",Monday to Saturday,9:00 AM - 7:00 PM,New Delhi
+65,Cardiologist,Dr. Purushottam Lal,5,"Chairman, Metro Group of Hospitals",Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",Noida
+66,Cardiologist,Dr. Praveen Chandra,4.25,"Chairman of Interventional Cardiology, Medanta - The Medicity",Monday to Saturday,09:00 - 18:00,Gurgaon
+67,Cardiologist,Dr. Ajay Kaul,4.9,"Cardiac Surgeon, Nayati Medicity",Mon-Sat,19:30 - 02:10,Delhi NCR
+68,Cardiologist,Dr. Tejas Patel,4.7,"Chairman and Chief Interventional Cardiologist, Apex Heart Institute",Mon-Sat,08:00 - 20:00,Ahmedabad
+69,Cardiologist,Dr. Sandeep Attawar,4.55,"Director, Global Hospitals",Mon-Sat,9:00 AM - 5:00 PM,Chennai
+70,Neurologist,Dr. Vinit Suri,4.6,Not Available,Monday to Saturday,09:00 - 18:00,Delhi
+71,Neurologist,Dr. Rajesh Garg,5,Renowned,Mon-Sat,19:30 - 02:10,Delhi
+72,Neurologist,Dr. Sushil Tandel,5,Renowned,Mon-Sat,08:00 - 20:00,Mumbai
+73,Neurologist,Dr. K.K Jindal,4.25,Over 25,Mon-Sat,9:00 AM - 5:00 PM,New Delhi
+74,Neurologist,Dr. Sanjay Kumar Mishra,4.65,Over 18,Mon-Sat,9:00 AM - 5:00 PM,New Delhi
+75,Neurologist,Dr. Pradyumna J. Oak,5,Over 15,Mon-Sat,9:00 AM - 5:00 PM,Mumbai
+76,Neurologist,Dr. Amit Batra,5,Over 14,Mon-Sat,9:00 AM - 5:00 PM,New Delhi
+77,Neurologist,Dr. Mohit Goel,4.25,Over 29,Monday to Saturday,10:00 AM - 7:00 PM,Delhi NCR
+78,Neurologist,Dr. Manoj Khandelwal,4.9,Over 17,Monday to Saturday,9:00 AM - 7:00 PM,New Delhi
+79,Neurologist,Dr. Kamakshi Dhamija,4.7,Over 11,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",New Delhi
+80,Orthopedic Surgeon,Dr. Ashok Joh pur,5,"DirectorDirector Centre for AI Research, Raghudeep Eye Hospital",,,
+81,Orthopedic Surgeon,Dr. D.Y. Patil,5, founded DY Patil Medical College,Monday to Saturday,9:00 AM - 7:00 PM,Delhi
+82,Orthopedic Surgeon,Dr. Shekhar Bhojraj,5,Renowned,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",Mumbai
+83,Orthopedic Surgeon,Dr. Deepak Kumar Jain,4.25,Over 30 years,Monday to Saturday,09:00 - 18:00,Bangalore
+84,Orthopedic Surgeon,Dr. Bipin Seth,4.9,Over 25 years,Mon-Sat,9:00 AM - 5:00 PM,Delhi
+85,Orthopedic Surgeon,Dr. Anant Kumar,4.7,"Director, Indian Spinal Injuries Centre",Mon-Sat,9:00 AM - 5:00 PM,Gurgaon
+86,Orthopedic Surgeon,Dr. V. C. Menon,4.55,"Head - Institute of Orthopaedics, Medanta Medicity",Mon-Sat,9:00 AM - 5:00 PM,New Delhi
+87,Orthopedic Surgeon,Dr. C.P. Agarwal,4.6,"Head, Department of Orthopaedics, Apollo Hospitals",Monday to Saturday,10:00 AM - 7:00 PM,Gurgaon
+88,Orthopedic Surgeon,Dr. Sandeep Vaish,4.25,"Director, Center for Knee Surgery and Sports Medicine",Monday to Saturday,9:00 AM - 7:00 PM,Chennai
+89,Orthopedic Surgeon,Dr. Amit Gupta,4.9,Joint Replacement & Arthroscopy Specialist,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",New Delhi
+90,Otolaryngologist(ENT),Dr. J.L. Bajaj,5,Renowned,Monday to Saturday,09:00 - 18:00,Delhi
+91,Otolaryngologist(ENT),Dr. Ashwini Kumar,5,Renowned,Mon-Sat,19:30 - 02:10,Mumbai
+92,Otolaryngologist(ENT),Dr. Sandeep Desai,5,Over 20 years,Mon-Sat,08:00 - 20:00,Bangalore
+93,Otolaryngologist(ENT),Dr. Debashish Mishra,4.25,Established Practice,Mon-Sat,9:00 AM - 5:00 PM,Kolkata
+94,Otolaryngologist(ENT),Dr. Rajesh Kapoor,4.9,Extensive Experience,Mon-Sat,9:00 AM - 5:00 PM,Chennai
+95,Otolaryngologist(ENT),Dr. Srinivas Prasad,4.7,Renowned,Mon-Sat,9:00 AM - 5:00 PM,Hyderabad
+96,Otolaryngologist(ENT),Dr. Meenakshi Aggarwal,4.55,Over 25 years,Mon-Sat,9:00 AM - 5:00 PM,Ahmedabad
+97,Otolaryngologist(ENT),Dr. Joydeep Ghosh,4.6,Established Practice,Monday to Saturday,10:00 AM - 7:00 PM,Pune
+98,Otolaryngologist(ENT),Dr. B. N. Sinha,4.25,Renowned,Monday to Saturday,9:00 AM - 7:00 PM,Lucknow
+99,Otolaryngologist(ENT),Dr. Pradeep Sahni,4.9,Over 15 years,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",Chandigarh
+100,Vascular Surgeon,Dr. Amitabha Chakravarti,5,Renowned,Mon-Sat,9:00 AM - 5:00 PM,Kolkata
+101,Vascular Surgeon,Dr. C. S. Ramakrishnan,5,Renowned,Monday to Saturday,10:00 AM - 7:00 PM,Chennai
+102,Vascular Surgeon,Dr. Parthasarathi Rao,5,Over 20 years,Monday to Saturday,9:00 AM - 7:00 PM,Hyderabad
+103,Vascular Surgeon,Dr. Sandeep Seth,4.25,Established Practice,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",Delhi
+104,Vascular Surgeon,Dr. Santosh Kumar Rai,4.9,Extensive Experience,,,Mumbai
+105,Vascular Surgeon,Dr. Arvind Kumar,4.7,Renowned,Monday to Saturday,9:00 AM - 7:00 PM,Bangalore
+106,Vascular Surgeon,Dr. Mathew Cherian,4.55,Over 25 years,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",Kerala
+107,Vascular Surgeon,Dr. Z. S. Mehtre,4.6,Established Practice,Monday to Saturday,09:00 - 18:00,Pune
+108,Vascular Surgeon,Dr. Pradeep Muley,4.25,Renowned,Mon-Sat,9:00 AM - 5:00 PM,Mumbai
+109,Vascular Surgeon,Dr. Mukesh Aggarwal,4.9,Over 15 years,Mon-Sat,9:00 AM - 5:00 PM,Gurgaon
+110,Rheumatologist,Dr. A.K. Singh,,Renowned,Mon-Sat,08:00 - 20:00,Delhi
+111,Rheumatologist,Dr. Prathap C Reddy,,Established Practice,Mon-Sat,9:00 AM - 5:00 PM,Hyderabad
+112,Rheumatologist,Dr. Neelam Mohan,,Over 20 years,Monday to Saturday,09:00 - 18:00,Bangalore
+113,Rheumatologist,Dr. Jyothi Rao,,Extensive Experience,Mon-Sat,19:30 - 02:10,Mumbai
+114,Rheumatologist,Dr. Shweta Singh,,Established Practice,Mon-Sat,08:00 - 20:00,Chennai
+115,Rheumatologist,Dr. Tapadia,,Renowned,Mon-Sat,9:00 AM - 5:00 PM,Kolkata
+116,Rheumatologist,Dr. Manish Agarwal,,Over 15 years,Mon-Sat,9:00 AM - 5:00 PM,Ahmedabad
+117,Rheumatologist,Dr. Rajiv Ranjan Prasad,,Established Practice,Mon-Sat,9:00 AM - 5:00 PM,Patna
+118,Rheumatologist,Dr. Sucheta Desai,,Over 25 years,Mon-Sat,9:00 AM - 5:00 PM,Pune
+119,Rheumatologist,Dr. Yogesh Kadam,,Over 10 years,Monday to Saturday,10:00 AM - 7:00 PM,Nagpur
+120,Urologist,Dr. Percy Chibber,,Renowned (42 years),Mon-Sat,9:00 AM - 5:00 PM,Mumbai
+121,Urologist,Dr. Rajesh Taneja,,Renowned (over 33 years),Mon-Sat,9:00 AM - 5:00 PM,Delhi
+122,Urologist,Dr. Mohan Keshavamurthy,,Renowned,Mon-Sat,9:00 AM - 5:00 PM,Bangalore
+123,Urologist,Dr. Joseph Thachil,,Renowned,Monday to Saturday,10:00 AM - 7:00 PM,Chennai
+124,Urologist,Dr. Amit Ghose,,Established Practice,Monday to Saturday,9:00 AM - 7:00 PM,Kolkata
+125,Urologist,Dr. Shailesh Raina,,Extensive Experience,Monday to Saturday,"10:00 AM - 3:00 PM, 4:30 PM - 7:30 PM",Delhi
+126,Urologist,Dr. Rajiv Yadav,,Established Practice,Monday to Saturday,09:00 - 18:00,Delhi
+127,Urologist,Dr. Pankaj Maheshwari,,Established Practice,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",Varies by day,Delhi
+128,Urologist,Dr. Sanjay Gogoi,,21+ years,Mon-Sat,9:00 AM - 5:00 PM,"Dwarka, Delhi"
+129,Urologist,Dr. Bejoy Abraham,,Renowned,Mon-Sat,08:00 - 20:00,Mumbai
